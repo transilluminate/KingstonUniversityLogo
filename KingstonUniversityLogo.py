@@ -12,9 +12,6 @@
 # required python3 library
 from manim import *
 
-# default black background, can use WHITE or other colours
-config.background_color = BLACK
-
 class KingstonUniversityLogo(Scene):
     def construct(self):
 
