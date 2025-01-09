@@ -2,9 +2,13 @@ Creates an animated Kingston University Logo outputting to mp4 video for slides 
 
 Uses [Manim](https://docs.manim.community/en/stable/installation.html).
 
-Run with:
+Run with (mp4, 176Kb output):
 
 `$ manim -pqh KingstonUniversityLogo.py KingstonUniversityLogo`
+
+For a transparent background (mov, 13.9Mb output) run:
+
+`$ manim -t -qh KingstonUniversityLogo.py KingstonUniversityLogo`
 
 Example:
 
