@@ -7,3 +7,5 @@ Run with:
 `$ manim -pqh KingstonUniversityLogo.py KingstonUniversityLogo`
 
 Example:
+
+https://github.com/user-attachments/assets/2a74f295-1f5d-4a51-a252-ab2dcf672a61
