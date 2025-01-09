@@ -11,13 +11,14 @@
 
 # required python3 library
 from manim import *
+# config.background_color = WHITE    # uncomment if you want a white background
 
 class KingstonUniversityLogo(Scene):
     def construct(self):
 
         # define the KU brand colours
         colourWhite  = "#FFFFFF"
-        colourBlack  = "#000000"    # Full Marque
+        colourBlack  = "#000000"    # Full Marque (only useful with transparent background or white - uncomment above config option)
         colourBlue   = "#0092D4"    # Kingston University
         colourYellow = "#FFED00"    # Kingston School of Art
         colourTeal   = "#45B8A9"    # Kingston Business School
