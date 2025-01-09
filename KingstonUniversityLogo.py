@@ -1,8 +1,8 @@
 # Author:  Adrian Robinson <a.j.robinson@kingston.ac.uk>
 # Date:    08/01/2025
 #
-# Code:    Unilicense (done on personal time :)
-# KU Logo: Copyight Kingston University (kingston.ac.uk)
+# Code:    Unlicense (done on personal time :)
+# KU Logo: Copyight (c) Kingston University (kingston.ac.uk)
 #
 # Creates an animated Kingston University Logo outputting to mp4 video for slides / media (1080p x 60fps)
 #
